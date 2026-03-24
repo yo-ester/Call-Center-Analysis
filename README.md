@@ -17,7 +17,6 @@ These metrics indicate issues in call handling, long waiting times, and suboptim
 
 ### Workforce Optimization
 - Align staffing with hourly call patterns
-- Increase coverage during peak hours
 - Introduce flexible shifts
 
 ### Reduce Waiting Time
@@ -27,20 +26,14 @@ These metrics indicate issues in call handling, long waiting times, and suboptim
 
 ### Improve First Call Resolution (FCR)
 - Targeted agent training
-- Better access to knowledge base
 - Standardized handling procedures
 
 ### Smart Call Routing
 - Route complex calls to high-performing agents
 - Balance workload across agents
 
-### Optimize AHT (Average Handle Time)
-- Streamline processes
-- Reduce inefficiencies without impacting quality
-
 
 ## Expected Impact
-
 - Abandon Rate: 20.04% → < 10%
 - CSAT: 2.98 → > 3.8
 - FCR: 70.66% → > 80%

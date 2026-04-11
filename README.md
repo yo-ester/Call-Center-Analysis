@@ -1,6 +1,6 @@
 # Call Center Optimization: reducing abandon rate and improving customer satisfaction
 
-![Dashboard](callcenterkpiopt.png)
+![Dashboard](callcenterkpioptim.png)
 
 ## Business Problem
 The call center is experiencing performance inefficiencies highlighted by a high abandon rate (20.04%) and low customer satisfaction (CSAT 2.98/5).  
